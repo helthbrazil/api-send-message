@@ -1,0 +1,24 @@
+{
+  "name": "api-send-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helthbrazil/api-send-message.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helthbrazil/api-send-message/issues"
+  },
+  "homepage": "https://github.com/helthbrazil/api-send-message#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
